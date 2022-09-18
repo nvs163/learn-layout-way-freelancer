@@ -1,9 +1,9 @@
-@import url(./css/null.css);
-@import url(./css/header.css);
-@import url(./css/hero.css);
-@import url(./css/book.css);
-@import url(./css/readers.css);
-@import url(./css/footer.css);
+@import url(/css/null.css);
+@import url(/css/header.css);
+@import url(/css/hero.css);
+@import url(/css/book.css);
+@import url(/css/readers.css);
+@import url(/css/footer.css);
 
 .main {
   display: flex;
@@ -14,6 +14,7 @@
 
 .container {
   margin: 0 auto;
+  padding: 0 15px;
   max-width: 1140px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
